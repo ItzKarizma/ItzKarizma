@@ -10,8 +10,8 @@ I'm just a CS student diving headfirst into the AI abyss, tryna make machines sm
 ![](https://skillicons.dev/icons?i=git,c,cpp,qt,py,pytorch,flask,js,html,css,mysql,bash,arch,linux,discord&theme=dark)
 
 ## My Projects
-- **[fundamental-ml-algorithms-in-c](https://github.com/ItzKarizma/fundamental-ml-algorithms-in-c)**: My baby-implementing ML algorithms in C, because Python's for softies. We’re talking k-means, perceptron, and more, all written in C without any ML libraries. Star it or I'll `chown` your heart.
 - **[BattleSheep](https://github.com/ItzKarizma/BattleSheep)**: A 1st year uni project where sheep get savage, beeeh... *ahem* written fully in Python. It was my first time using Python and working in a team too. Props to the crew who **grinded** instead of getting carried and using excuses to avoid doing anything (at least give me a shoulder massage).
+- **[fundamental-ml-algorithms-in-c](https://github.com/ItzKarizma/fundamental-ml-algorithms-in-c)**: My baby-implementing ML algorithms in C, because Python's for softies. We’re talking k-means, perceptron, and more, all written in C without any ML libraries. Star it or I'll `chown` your heart.
 - **[Shirayume.exe](https://github.com/ItzKarizma/Shirayume.exe)**: A custom discord bot with many features like moderation, economy, utils, and even a game-like progress (levels, ranks, leaderboards, etc.). It's written entirely in Python, because Python > JavaScript.
 - The rest is private stuff I'm working on.
   
